@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring4x_lib"/>
+	<classpathentry kind="lib" path="C:/Users/Mohsin/Desktop/WTL/WTL/Spring_jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mohsin/Desktop/WTL/WTL/Spring_jar_files/mysql-connector-java-5.1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mohsin/Desktop/WTL/WTL/Spring_jar_files/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mohsin/Desktop/WTL/WTL/Spring_jar_files/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mohsin/Desktop/WTL/WTL/Spring_jar_files/spring-context-support-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mohsin/Desktop/WTL/WTL/Spring_jar_files/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mohsin/Desktop/WTL/WTL/Spring_jar_files/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
